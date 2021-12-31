@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "minecraft:item/green_apple"
+        "layer0": "custom:item/chocolate_bar"
     }
 }

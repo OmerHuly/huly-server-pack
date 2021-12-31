@@ -4,7 +4,7 @@
         "layer0": "minecraft:item/apple"
     },
     "overrides": [
-        {"predicate": {"custom_model_data": 1}, "model": "item/green_apple"},
+        {"predicate": {"custom_model_data": 1}, "model": "custom:item/green_apple"},
         {"predicate": {"custom_model_data": 2}, "model": "item/apple"}
     ]
 }
