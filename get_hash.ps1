@@ -1,6 +1,6 @@
 $zipFile = ".\huly-server-pack.zip"
 $compress = @{
-LiteralPath= ".\pack.mcmeta", ".\pack.png", ".\assets\*"
+LiteralPath = ".\pack.mcmeta", ".\pack.png", ".\assets"
 DestinationPath = $zipFile
 }
 Compress-Archive @compress -Update

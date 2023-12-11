@@ -1,0 +1,34 @@
+{
+    "music_disc.gateheavyopenclose": {
+        "sounds": [
+            {
+                "name": "records/gateheavyopenclose",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.noiseavoided": {
+        "sounds": [
+            {
+                "name": "records/noiseavoided",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.poweroutage": {
+        "sounds": [
+            {
+                "name": "records/poweroutage",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.stonesfalling": {
+        "sounds": [
+            {
+                "name": "records/stonesfalling",
+                "stream": true
+            }
+        ]
+    }
+}
