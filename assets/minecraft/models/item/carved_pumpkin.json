@@ -1,0 +1,14 @@
+{
+	"parent": "minecraft:block/carved_pumpkin",
+	"textures": {
+		"layer0": "item/carved_pumpkin"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data": 1 }, "model": "block/custom/blinders" },
+		{ "predicate": { "custom_model_data": 2 }, "model": "block/custom/pilothat" },
+		{ "predicate": { "custom_model_data": 3 }, "model": "block/custom/steampunkhat1" },
+		{ "predicate": { "custom_model_data": 4 }, "model": "block/custom/tophatsimple" },
+		{ "predicate": { "custom_model_data": 5 }, "model": "block/custom/tophattop" },
+		{ "predicate": { "custom_model_data": 6 }, "model": "item/carved_pumpkin" }
+	]
+}
