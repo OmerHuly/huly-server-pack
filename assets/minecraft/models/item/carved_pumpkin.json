@@ -12,6 +12,10 @@
 		{ "predicate": { "custom_model_data": 6 }, "model": "block/custom/bunnyears" },
 		{ "predicate": { "custom_model_data": 7 }, "model": "block/custom/ggpeanut" },
 		{ "predicate": { "custom_model_data": 8 }, "model": "block/custom/steampunk2" },
-		{ "predicate": { "custom_model_data": 9 }, "model": "item/carved_pumpkin" }
+		{ "predicate": { "custom_model_data": 9 }, "model": "block/custom/judge1" },
+		{ "predicate": { "custom_model_data": 10 }, "model": "block/custom/judge2" },
+		{ "predicate": { "custom_model_data": 11 }, "model": "block/custom/judgeultimate" },
+		{ "predicate": { "custom_model_data": 12 }, "model": "block/custom/sortinghat" },
+		{ "predicate": { "custom_model_data": 13 }, "model": "item/carved_pumpkin" }
 	]
 }
