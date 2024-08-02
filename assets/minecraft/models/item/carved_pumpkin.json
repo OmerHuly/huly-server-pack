@@ -16,6 +16,8 @@
 		{ "predicate": { "custom_model_data": 10 }, "model": "block/custom/judge2" },
 		{ "predicate": { "custom_model_data": 11 }, "model": "block/custom/judgeultimate" },
 		{ "predicate": { "custom_model_data": 12 }, "model": "block/custom/sortinghat" },
-		{ "predicate": { "custom_model_data": 13 }, "model": "item/carved_pumpkin" }
+		{ "predicate": { "custom_model_data": 13 }, "model": "block/custom/puchef" },
+		{ "predicate": { "custom_model_data": 14 }, "model": "block/custom/redstonehat" },
+		{ "predicate": { "custom_model_data": 15 }, "model": "item/carved_pumpkin" }
 	]
 }
