@@ -18,6 +18,16 @@
 		{ "predicate": { "custom_model_data": 12 }, "model": "block/custom/sortinghat" },
 		{ "predicate": { "custom_model_data": 13 }, "model": "block/custom/puchef" },
 		{ "predicate": { "custom_model_data": 14 }, "model": "block/custom/redstonehat" },
-		{ "predicate": { "custom_model_data": 15 }, "model": "item/carved_pumpkin" }
+		{ "predicate": { "custom_model_data": 15 }, "model": "block/custom/puegg" },
+		{ "predicate": { "custom_model_data": 16 }, "model": "block/custom/puturkey" },
+		{ "predicate": { "custom_model_data": 17 }, "model": "block/custom/books1" },
+		{ "predicate": { "custom_model_data": 18 }, "model": "block/custom/telescope" },
+		{ "predicate": { "custom_model_data": 19 }, "model": "block/custom/pupizza" },
+		{ "predicate": { "custom_model_data": 20 }, "model": "block/custom/gift1" },
+		{ "predicate": { "custom_model_data": 21 }, "model": "block/custom/coastalbanner" },
+		{ "predicate": { "custom_model_data": 22 }, "model": "block/custom/parkbench" },
+		{ "predicate": { "custom_model_data": 23 }, "model": "block/custom/plushie1" },
+		{ "predicate": { "custom_model_data": 24 }, "model": "block/custom/sofa1" },
+		{ "predicate": { "custom_model_data": 25 }, "model": "item/carved_pumpkin" }
 	]
 }
