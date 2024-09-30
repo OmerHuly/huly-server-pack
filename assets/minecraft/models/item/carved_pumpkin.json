@@ -28,6 +28,8 @@
 		{ "predicate": { "custom_model_data": 22 }, "model": "block/custom/parkbench" },
 		{ "predicate": { "custom_model_data": 23 }, "model": "block/custom/plushie1" },
 		{ "predicate": { "custom_model_data": 24 }, "model": "block/custom/sofa1" },
-		{ "predicate": { "custom_model_data": 25 }, "model": "item/carved_pumpkin" }
+		{ "predicate": { "custom_model_data": 25 }, "model": "block/custom/endermug" },
+		{ "predicate": { "custom_model_data": 26 }, "model": "block/custom/beermug" },
+		{ "predicate": { "custom_model_data": 27 }, "model": "item/carved_pumpkin" }
 	]
 }
