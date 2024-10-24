@@ -30,6 +30,11 @@
 		{ "predicate": { "custom_model_data": 24 }, "model": "block/custom/sofa1" },
 		{ "predicate": { "custom_model_data": 25 }, "model": "block/custom/endermug" },
 		{ "predicate": { "custom_model_data": 26 }, "model": "block/custom/beermug" },
-		{ "predicate": { "custom_model_data": 27 }, "model": "item/carved_pumpkin" }
+		{ "predicate": { "custom_model_data": 27 }, "model": "block/custom/anchor" },
+		{ "predicate": { "custom_model_data": 28 }, "model": "block/custom/croissant" },
+		{ "predicate": { "custom_model_data": 29 }, "model": "block/custom/sandcastle" },
+		{ "predicate": { "custom_model_data": 30 }, "model": "block/custom/steampunkbanner" },
+		{ "predicate": { "custom_model_data": 31 }, "model": "block/custom/jacko1" },
+		{ "predicate": { "custom_model_data": 32 }, "model": "item/carved_pumpkin" }
 	]
 }
