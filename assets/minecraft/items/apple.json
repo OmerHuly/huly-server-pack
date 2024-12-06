@@ -1,0 +1,11 @@
+{
+	"model": {
+		"type": "range_dispatch",
+		"property": "custom_model_data",
+		"fallback": {"type": "model", "model": "item/apple"},
+		"entries": [
+			{"threshold": 1, "model": {"type": "model", "model": "custom:item/green_apple"}},
+			{"threshold": 2, "model": {"type": "model", "model": "item/apple"}}
+		]
+	}
+}
